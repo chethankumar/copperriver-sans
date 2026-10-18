@@ -16,6 +16,7 @@ under the SIL Open Font License 1.1.
 | `fonts/CopperRiverSans-400.ttf` … `-700.ttf` | Static instances: Regular, Medium, SemiBold, Bold |
 | `fonts/CopperRiverSans-VF.ttf` | Variable font, `wght` 400–700 |
 | `fonts/web/` | The same fonts as woff2 |
+| `index.html` | Animated interactive specimen — open it in any browser; the variable font is embedded, works fully offline |
 
 - 700+ glyphs: LatinExtended-A coverage, currency symbols, punctuation
 - Variable `wght` axis (400–700) plus static instances for engines that don't interpolate
