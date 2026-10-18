@@ -1,6 +1,8 @@
 # CopperRiver Sans
 
-An open-source humanist sans-serif typeface for interfaces. Warm, slightly
+An open-source humanist sans-serif typeface for interfaces.
+
+**Live specimen: https://chethankumar.github.io/copperriver-sans/** Warm, slightly
 geometric, tuned for UI work at small sizes and comfortable at display sizes.
 
 Derived from [Schibsted Grotesk](https://github.com/schibsted/schibsted-grotesk)
